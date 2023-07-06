@@ -53,3 +53,20 @@ The plan identifies the items to be tested, the features to be tested, the types
 ### 1.1.6 Evaluating entry criteria
 The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
 
+## 1.2 Test Monitoring and Control
+Various periodic reports were generated to reflect the current status of the testing process, in case of major problems control measures could be taken. The following status report was generated after 40% of the test cases were executed, on July 1st, 2023:
+
+## 1.3 Test Analysis
+The testing process will be executed based on the above requirements for the **New Customer** module for **Manager role**. The following test conditions were found:
+
+- Enter data only for mandatory fields and check that the New Customer is created
+- Enter data for all available fields and check that the New Customer is created
+- Leave mandatory fields empty and check that the New Customer cannot be created
+- Check all validation constraints for the fields
+
+## 1.4 Test Design
+
+Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are boundary value analysis, equivalence partitioning and use case testing.
+
+**Test cases**
+![image](https://github.com/Fulger19/Proiect-practic-Testare-Manuala/assets/135150028/2458ad39-98f3-443c-b794-e56e7b3b4d51)
