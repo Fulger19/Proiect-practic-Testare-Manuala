@@ -8,3 +8,13 @@ API Documentation: https://docs.google.com/document/d/1rPW5DV82VJT6vtA1VDSrfxaCB
 The final project will be split into 2 sections: Testing section and SQL section.
 
 Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
+
+# Functional specifications
+This project is performed upon the below Story, which was created in JIRA and describes the functional specifications of the New Customer and Edit Customer modules for Manager role.
+
+
+1 Testing section
+1.1 Test Planning
+The Test Plan is designed to describe all details of testing for the New Customer and Edit Customer modules for Manager role from the Guru99 application.
+
+The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan.
