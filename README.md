@@ -4,3 +4,7 @@ The scope of the final project for ITF Manual Testing Course is to use all gaine
 Application under test: https://demo.guru99.com/V4/index.php
 
 API Documentation: https://docs.google.com/document/d/1rPW5DV82VJT6vtA1VDSrfxaCBuAduxW0zb1yfTh_VMk/edit
+
+The final project will be split into 2 sections: Testing section and SQL section.
+
+Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
