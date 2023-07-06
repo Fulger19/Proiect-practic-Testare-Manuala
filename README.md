@@ -14,6 +14,7 @@ This project is performed upon the below Story, which was created in JIRA and de
 
 
 1 Testing section
+
 1.1 Test Planning
 The Test Plan is designed to describe all details of testing for the New Customer and Edit Customer modules for Manager role from the Guru99 application.
 
