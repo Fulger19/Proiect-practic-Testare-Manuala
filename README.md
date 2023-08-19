@@ -103,14 +103,15 @@ The following elements are needed to be ready before the test execution phase be
 
 ## 1.7 Test Completion
 - As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
-- The traceability matrix was generated and can be found here: XXXXX Traceability_matrix.csv XXXXX - de actualizat numerele in functie de testele facute de mine !!!!!!!
-- Test execution chart was generated, the final report shows that a number 5 tests have failed of a total of 23
-- A number of 23 test cases were planned for execution and all of them were executed
-- A number of 5 total bugs were found, from which the priority is: 1 is high, 4 are medium and 1 is low
+- The traceability matrix was generated and can be found here: [Traceability_matrix](https://github.com/Fulger19/Proiect-practic-Testare-Manuala/blob/main/Traceability_matrix_Guru99.xlsx)
+- Test execution chart was generated, the final report shows that a number 2 tests have failed of a total of 36
+- A number of 36 test cases were planned for execution and all of them were executed
+- A number of 2 total bugs were found, for which the priority is medium
 
 Test execution chart
 
-XXXXXXXXXXXXX
+![image](https://github.com/Fulger19/Proiect-practic-Testare-Manuala/assets/135150028/87704713-be30-4be2-889c-4f0457f4bd0d)
+
 
 # 2 SQL section
 
