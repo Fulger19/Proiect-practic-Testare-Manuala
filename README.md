@@ -85,7 +85,7 @@ For the API testing, the following checklist was generated: XXXXXXXXXXXXXXXXXX
 The following elements are needed to be ready before the test execution phase begins:
 
 - Testing environment is up and running: https://demo.guru99.com/V4/index.php
-- Access to the testing environment is given: Username : mngr505316 | Password : ruvUver
+- Access to the testing environment is given with the following email address vahah14739@goflipa.com. This should be used on https://demo.guru99.com/ in order to obtain an username and a password to access the test environment.
 - Cycle summary was created
 - Test cases were added to the cycle summary
 - Postman collection for the new users API methods was created
