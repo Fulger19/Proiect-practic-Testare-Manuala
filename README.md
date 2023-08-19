@@ -58,7 +58,8 @@ The entry criterias defined in the Test Planning phase have been achieved and th
 ## 1.2 Test Monitoring and Control
 Various periodic reports were generated to reflect the current status of the testing process, in case of major problems control measures could be taken. The following status report was generated after 40% of the test cases were executed, on July 1st, 2023:
 
-XXXXXXXXXXXXXXXXXXXXX
+![image](https://github.com/Fulger19/Proiect-practic-Testare-Manuala/assets/135150028/c2988eb8-b38a-4d13-80f1-ece579b9631b)
+
 
 ## 1.3 Test Analysis
 The testing process will be executed based on the above requirements for the **New Customer** module for **Manager role**. The following test conditions were found:
@@ -87,7 +88,7 @@ The following elements are needed to be ready before the test execution phase be
 - Access to the testing environment is given: Username : mngr505316 | Password : ruvUver
 - Cycle summary was created
 - Test cases were added to the cycle summary
-- Postman collection with the [dependents] API methods was created
+- Postman collection for the new users API methods was created
 - Authorization token was created for accessing the API
 
 ## 1.6 Test Execution
