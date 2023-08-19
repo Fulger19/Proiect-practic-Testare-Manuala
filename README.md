@@ -92,7 +92,7 @@ The following elements are needed to be ready before the test execution phase be
 - Authorization token was created for accessing the API
 
 ## 1.6 Test Execution
-- Test cases are executed on the created test Cycle summary: xxxxxx[Dependents_cycle_summary_execution.pdf]xxxxxxxxxxx
+- Test cases are executed on the created test Cycle summary: https://github.com/Fulger19/Proiect-practic-Testare-Manuala/blob/main/ZFJ-issue-export-08-19-2023-242ac113-0001.xlsx
 - Bugs have been created based on the failed tests. The complete bug reports can be found here: xxxxxxxxDependents_created_bugs.pdfxxxx
     - XXXXXXXXXXXX de adaugat ce bugs am gasit pe modelul de mai jos XXXXXXXXXXXXXX
     - Date format is not dd/mm/yyyy
