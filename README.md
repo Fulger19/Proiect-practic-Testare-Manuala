@@ -92,14 +92,12 @@ The following elements are needed to be ready before the test execution phase be
 - Authorization token was created for accessing the API
 
 ## 1.6 Test Execution
-- Test cases are executed on the created test Cycle summary: https://github.com/Fulger19/Proiect-practic-Testare-Manuala/blob/main/ZFJ-issue-export-08-19-2023-242ac113-0001.xlsx
-- Bugs have been created based on the failed tests. The complete bug reports can be found here: xxxxxxxxDependents_created_bugs.pdfxxxx
-    - XXXXXXXXXXXX de adaugat ce bugs am gasit pe modelul de mai jos XXXXXXXXXXXXXX
+- Test cases are executed on the created test Cycle summary: 
+- 11 bugs have been created based on the failed tests. The complete bug reports can be found here: xxxxxxxxDependents_created_bugs.pdfxxxx
+    - First character cannot be space for customer name, address, city, state, PIN Cod, telephone number, email
+    - Address - address field cannot be blank, special characters are not allowed
+    - Email - special characters are not allowed
     - Date format is not dd/mm/yyyy
-    - Future "Date of Birth" can be selected from calendar
-    - Only 50 characters are allowed for "Please Specify" field
-    - Only 50 characters are allowed for "Name" field
-    - Relationship "parent" is missing
 - API tests are executed based on the checklist. The collection used can be found here: XXXXX JSON file with the collection of requests created for the Dependents API XXXXX
 - Full regression testing is needed after the bugs are fixed
 
