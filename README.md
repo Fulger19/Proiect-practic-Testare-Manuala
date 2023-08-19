@@ -10,14 +10,15 @@ The final project will be split into 2 sections: **Testing section** and **SQL s
 Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
 
 # Functional specifications
-This project is performed upon the below Story, which was created in JIRA and describes the functional specifications of the **New Customer** and **Edit Customer** modules for **Manager role**.
+This project is performed upon the below Story, which was created in JIRA and describes the functional specifications of the **New Customer** module for **Manager role**.
 
-XXXXXXXXXXXXXXXXXXXXXXX
+![image](https://github.com/Fulger19/Proiect-practic-Testare-Manuala/assets/135150028/6dc5b021-b7ac-442c-85e3-d53cf4eafdc6)
+
 
 # 1 Testing section
 
 ## 1.1 Test Planning
-The Test Plan is designed to describe all details of testing for the **New Customer** and **Edit Customer** modules for **Manager role** from the Guru99 application.
+The Test Plan is designed to describe all details of testing for the **New Customer** module for **Manager role** from the Guru99 application.
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan.
 
@@ -38,11 +39,11 @@ The plan identifies the items to be tested, the features to be tested, the types
 - all resolved bugs have been re-tested and approved by the QA team
 - deadline was reached
 - no detected major risk remained un-mitigated
-- exploratory regression testing must be performed on the **New Customer** and **Edit Customer** modules for **Manager role**
+- exploratory regression testing must be performed on the **New Customer** module for **Manager role**
   
 ### 1.1.4 Test scope
 
-**Tests in scope**: All the feature of **New Customer** and **Edit Customer** module which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing.
+**Tests in scope**: All the feature of **New Customer** module which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing.
 
 **Tests not in scope**: performance testing, integrations of the above modules with other modules, compatibility testing with multiple browsers
 
