@@ -3,20 +3,22 @@ The scope of the final project for ITF Manual Testing Course is to use all gaine
 
 Application under test: https://demo.guru99.com/V4/index.php
 
-API Documentation: https://docs.google.com/document/d/1rPW5DV82VJT6vtA1VDSrfxaCBuAduxW0zb1yfTh_VMk/edit
+Documentation: https://docs.google.com/document/d/1rPW5DV82VJT6vtA1VDSrfxaCBuAduxW0zb1yfTh_VMk/edit
 
-The final project will be split into 2 sections: **Testing section** and **SQL section**.
+The final project will be split into 3 sections: **1. Testing section**, **2. API Section** and **3. SQL section**.
+Testing will be done for: https://demo.guru99.com/V4/index.php
+API testing will be done for: https://www.aeries.com/solutions/demo, using the API documentation from here: https://support.aeries.com/support/solutions/articles/14000077926-aeries-api-full-documentation
+SQL testing will be done for: https://scoala89.invatamantsector3.ro/
 
 Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
+
+# 1. Testing section
 
 # Functional specifications
 This project is performed upon the below Story, which was created in JIRA and describes the functional specifications of the **New Customer** module for **Manager role**.
 
 ![image](https://github.com/Fulger19/Proiect-practic-Testare-Manuala/assets/135150028/399351a1-9b17-4f7b-881c-bf7fc5a1b48e)
 
-
-
-# 1 Testing section
 
 ## 1.1 Test Planning
 The Test Plan is designed to describe all details of testing for the **New Customer** module for **Manager role** from the Guru99 application.
@@ -80,8 +82,6 @@ Functional test cases were created in Zephyr Squad. Based on the analysis of the
 
 The test cases with steps can be viewed here: https://github.com/Fulger19/Proiect-practic-Testare-Manuala/blob/main/ZFJ-issue-export-08-19-2023-242ac113-0001%20(2).xlsx
 
-For the API testing, the following checklist was generated: XXXXXXXXXXXXXXXXXX
-
 ## 1.5 Test Implementation
 The following elements are needed to be ready before the test execution phase begins:
 
@@ -97,7 +97,6 @@ The following elements are needed to be ready before the test execution phase be
 - 2 bugs have been created based on the failed tests. The complete bug reports can be found here: https://github.com/Fulger19/Proiect-practic-Testare-Manuala/blob/main/bug%20reports.JPG
     - Email - special characters are not allowed
     - Date format is not dd/mm/yyyy
-- API tests are executed based on the checklist. The collection used can be found here: XXXXX JSON file with the collection of requests created for the Dependents API XXXXX
 - Full regression testing is needed after the bugs are fixed
 
 ## 1.7 Test Completion
@@ -111,8 +110,14 @@ Test execution chart
 
 ![image](https://github.com/Fulger19/Proiect-practic-Testare-Manuala/assets/135150028/87704713-be30-4be2-889c-4f0457f4bd0d)
 
+# 2. API testing
 
-# 2 SQL section
+The API documentation can be found here: https://support.aeries.com/support/solutions/articles/14000077926-aeries-api-full-documentation
+School Information - School-related end points was used for testing. 
+For the API testing the following checklist was generated: XXXXXXXXXXXXXXXXXX
+API tests are executed based on the checklist. The collection used can be found here: XXXXX JSON file with the collection of requests created for the Dependents API XXXXX
+
+# 3. SQL section
 
 Created a database named 'orangehrm' and a table named 'dependents' with all the columns needed to save data per specifications. Performed different queries inside the sql file: dependents.sql
   
