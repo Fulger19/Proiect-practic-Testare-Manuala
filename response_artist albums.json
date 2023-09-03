@@ -1,0 +1,856 @@
+{
+  "href" : "https://api.spotify.com/v1/artists/69GGH3fqk8waBkpDJ5C2mK/albums?include_groups=album,single,compilation,appears_on&offset=0&limit=20&market=RU",
+  "items" : [ {
+    "album_group" : "album",
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/69GGH3fqk8waBkpDJ5C2mK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/69GGH3fqk8waBkpDJ5C2mK",
+      "id" : "69GGH3fqk8waBkpDJ5C2mK",
+      "name" : "Sergey Lazarev",
+      "type" : "artist",
+      "uri" : "spotify:artist:69GGH3fqk8waBkpDJ5C2mK"
+    } ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3MdmQKA4LNqMsD8rT5H3sl"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3MdmQKA4LNqMsD8rT5H3sl",
+    "id" : "3MdmQKA4LNqMsD8rT5H3sl",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b27376179f56987a65c10e6e48b5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e0276179f56987a65c10e6e48b5",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d0000485176179f56987a65c10e6e48b5",
+      "width" : 64
+    } ],
+    "is_playable" : false,
+    "name" : "8",
+    "release_date" : "2021-11-26",
+    "release_date_precision" : "day",
+    "restrictions" : {
+      "reason" : "market"
+    },
+    "total_tracks" : 8,
+    "type" : "album",
+    "uri" : "spotify:album:3MdmQKA4LNqMsD8rT5H3sl"
+  }, {
+    "album_group" : "album",
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/69GGH3fqk8waBkpDJ5C2mK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/69GGH3fqk8waBkpDJ5C2mK",
+      "id" : "69GGH3fqk8waBkpDJ5C2mK",
+      "name" : "Sergey Lazarev",
+      "type" : "artist",
+      "uri" : "spotify:artist:69GGH3fqk8waBkpDJ5C2mK"
+    } ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5zM7eTlkU1HEBvHAyY93PN"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5zM7eTlkU1HEBvHAyY93PN",
+    "id" : "5zM7eTlkU1HEBvHAyY93PN",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b27349a04589b10c37e4151fccaa",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e0249a04589b10c37e4151fccaa",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d0000485149a04589b10c37e4151fccaa",
+      "width" : 64
+    } ],
+    "is_playable" : false,
+    "name" : "Это я",
+    "release_date" : "2019-11-29",
+    "release_date_precision" : "day",
+    "restrictions" : {
+      "reason" : "market"
+    },
+    "total_tracks" : 11,
+    "type" : "album",
+    "uri" : "spotify:album:5zM7eTlkU1HEBvHAyY93PN"
+  }, {
+    "album_group" : "album",
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/69GGH3fqk8waBkpDJ5C2mK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/69GGH3fqk8waBkpDJ5C2mK",
+      "id" : "69GGH3fqk8waBkpDJ5C2mK",
+      "name" : "Sergey Lazarev",
+      "type" : "artist",
+      "uri" : "spotify:artist:69GGH3fqk8waBkpDJ5C2mK"
+    } ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1Jgm2ZbjVphhcacdTx3dSl"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1Jgm2ZbjVphhcacdTx3dSl",
+    "id" : "1Jgm2ZbjVphhcacdTx3dSl",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b2734956cf798fc3882c0dd5a020",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e024956cf798fc3882c0dd5a020",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d000048514956cf798fc3882c0dd5a020",
+      "width" : 64
+    } ],
+    "is_playable" : false,
+    "name" : "Я не боюсь",
+    "release_date" : "2019-08-23",
+    "release_date_precision" : "day",
+    "restrictions" : {
+      "reason" : "market"
+    },
+    "total_tracks" : 8,
+    "type" : "album",
+    "uri" : "spotify:album:1Jgm2ZbjVphhcacdTx3dSl"
+  }, {
+    "album_group" : "album",
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/69GGH3fqk8waBkpDJ5C2mK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/69GGH3fqk8waBkpDJ5C2mK",
+      "id" : "69GGH3fqk8waBkpDJ5C2mK",
+      "name" : "Sergey Lazarev",
+      "type" : "artist",
+      "uri" : "spotify:artist:69GGH3fqk8waBkpDJ5C2mK"
+    } ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1gKYilxh4go3gKDikTH1ZO"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1gKYilxh4go3gKDikTH1ZO",
+    "id" : "1gKYilxh4go3gKDikTH1ZO",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273745f2ae68ca6407d96eaa177",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e02745f2ae68ca6407d96eaa177",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d00004851745f2ae68ca6407d96eaa177",
+      "width" : 64
+    } ],
+    "is_playable" : false,
+    "name" : "THE ONE",
+    "release_date" : "2018-04-01",
+    "release_date_precision" : "day",
+    "restrictions" : {
+      "reason" : "market"
+    },
+    "total_tracks" : 12,
+    "type" : "album",
+    "uri" : "spotify:album:1gKYilxh4go3gKDikTH1ZO"
+  }, {
+    "album_group" : "album",
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/69GGH3fqk8waBkpDJ5C2mK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/69GGH3fqk8waBkpDJ5C2mK",
+      "id" : "69GGH3fqk8waBkpDJ5C2mK",
+      "name" : "Sergey Lazarev",
+      "type" : "artist",
+      "uri" : "spotify:artist:69GGH3fqk8waBkpDJ5C2mK"
+    } ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1OV1Vn3D8FdzPv9rPxy9le"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1OV1Vn3D8FdzPv9rPxy9le",
+    "id" : "1OV1Vn3D8FdzPv9rPxy9le",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273a7c60ad21631a6d124b32a95",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e02a7c60ad21631a6d124b32a95",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d00004851a7c60ad21631a6d124b32a95",
+      "width" : 64
+    } ],
+    "is_playable" : false,
+    "name" : "В Эпицентре",
+    "release_date" : "2017-12-15",
+    "release_date_precision" : "day",
+    "restrictions" : {
+      "reason" : "market"
+    },
+    "total_tracks" : 15,
+    "type" : "album",
+    "uri" : "spotify:album:1OV1Vn3D8FdzPv9rPxy9le"
+  }, {
+    "album_group" : "album",
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/69GGH3fqk8waBkpDJ5C2mK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/69GGH3fqk8waBkpDJ5C2mK",
+      "id" : "69GGH3fqk8waBkpDJ5C2mK",
+      "name" : "Sergey Lazarev",
+      "type" : "artist",
+      "uri" : "spotify:artist:69GGH3fqk8waBkpDJ5C2mK"
+    } ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1T0dhlAAtbg8X0hpjGQz4m"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1T0dhlAAtbg8X0hpjGQz4m",
+    "id" : "1T0dhlAAtbg8X0hpjGQz4m",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b2730edeaa2f9abf2f43a2135cae",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e020edeaa2f9abf2f43a2135cae",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d000048510edeaa2f9abf2f43a2135cae",
+      "width" : 64
+    } ],
+    "is_playable" : false,
+    "name" : "The Best (English Edition)",
+    "release_date" : "2015-10-23",
+    "release_date_precision" : "day",
+    "restrictions" : {
+      "reason" : "market"
+    },
+    "total_tracks" : 29,
+    "type" : "album",
+    "uri" : "spotify:album:1T0dhlAAtbg8X0hpjGQz4m"
+  }, {
+    "album_group" : "album",
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/69GGH3fqk8waBkpDJ5C2mK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/69GGH3fqk8waBkpDJ5C2mK",
+      "id" : "69GGH3fqk8waBkpDJ5C2mK",
+      "name" : "Sergey Lazarev",
+      "type" : "artist",
+      "uri" : "spotify:artist:69GGH3fqk8waBkpDJ5C2mK"
+    } ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5qngbpKIqi32qBZWK9ykln"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5qngbpKIqi32qBZWK9ykln",
+    "id" : "5qngbpKIqi32qBZWK9ykln",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273ed3fab6d342e5c492584d12b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e02ed3fab6d342e5c492584d12b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d00004851ed3fab6d342e5c492584d12b",
+      "width" : 64
+    } ],
+    "is_playable" : false,
+    "name" : "The Best (Russian Edition)",
+    "release_date" : "2015-01-04",
+    "release_date_precision" : "day",
+    "restrictions" : {
+      "reason" : "market"
+    },
+    "total_tracks" : 16,
+    "type" : "album",
+    "uri" : "spotify:album:5qngbpKIqi32qBZWK9ykln"
+  }, {
+    "album_group" : "album",
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/69GGH3fqk8waBkpDJ5C2mK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/69GGH3fqk8waBkpDJ5C2mK",
+      "id" : "69GGH3fqk8waBkpDJ5C2mK",
+      "name" : "Sergey Lazarev",
+      "type" : "artist",
+      "uri" : "spotify:artist:69GGH3fqk8waBkpDJ5C2mK"
+    } ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3CyfJaegy0Hz0ckjyY9pRG"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3CyfJaegy0Hz0ckjyY9pRG",
+    "id" : "3CyfJaegy0Hz0ckjyY9pRG",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273c732d9f9d1bc04a6a4a50bc6",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e02c732d9f9d1bc04a6a4a50bc6",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d00004851c732d9f9d1bc04a6a4a50bc6",
+      "width" : 64
+    } ],
+    "is_playable" : false,
+    "name" : "Пьяная песня / Stumblin' (Remixes)",
+    "release_date" : "2014-06-03",
+    "release_date_precision" : "day",
+    "restrictions" : {
+      "reason" : "market"
+    },
+    "total_tracks" : 11,
+    "type" : "album",
+    "uri" : "spotify:album:3CyfJaegy0Hz0ckjyY9pRG"
+  }, {
+    "album_group" : "album",
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/69GGH3fqk8waBkpDJ5C2mK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/69GGH3fqk8waBkpDJ5C2mK",
+      "id" : "69GGH3fqk8waBkpDJ5C2mK",
+      "name" : "Sergey Lazarev",
+      "type" : "artist",
+      "uri" : "spotify:artist:69GGH3fqk8waBkpDJ5C2mK"
+    } ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0SE2Yvq0t0CQORq7I8nafR"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0SE2Yvq0t0CQORq7I8nafR",
+    "id" : "0SE2Yvq0t0CQORq7I8nafR",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273144f2d9460035ceee5adeef8",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e02144f2d9460035ceee5adeef8",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d00004851144f2d9460035ceee5adeef8",
+      "width" : 64
+    } ],
+    "is_playable" : false,
+    "name" : "LAZAREV. US Version",
+    "release_date" : "2013-10-31",
+    "release_date_precision" : "day",
+    "restrictions" : {
+      "reason" : "market"
+    },
+    "total_tracks" : 13,
+    "type" : "album",
+    "uri" : "spotify:album:0SE2Yvq0t0CQORq7I8nafR"
+  }, {
+    "album_group" : "album",
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/69GGH3fqk8waBkpDJ5C2mK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/69GGH3fqk8waBkpDJ5C2mK",
+      "id" : "69GGH3fqk8waBkpDJ5C2mK",
+      "name" : "Sergey Lazarev",
+      "type" : "artist",
+      "uri" : "spotify:artist:69GGH3fqk8waBkpDJ5C2mK"
+    } ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0mSltSxzLYcohVttkk1DRB"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0mSltSxzLYcohVttkk1DRB",
+    "id" : "0mSltSxzLYcohVttkk1DRB",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b2731adf4a2e9aa80c69da387d5f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e021adf4a2e9aa80c69da387d5f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d000048511adf4a2e9aa80c69da387d5f",
+      "width" : 64
+    } ],
+    "is_playable" : false,
+    "name" : "LAZAREV. (Deluxe Version)",
+    "release_date" : "2013-02-20",
+    "release_date_precision" : "day",
+    "restrictions" : {
+      "reason" : "market"
+    },
+    "total_tracks" : 16,
+    "type" : "album",
+    "uri" : "spotify:album:0mSltSxzLYcohVttkk1DRB"
+  }, {
+    "album_group" : "album",
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/69GGH3fqk8waBkpDJ5C2mK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/69GGH3fqk8waBkpDJ5C2mK",
+      "id" : "69GGH3fqk8waBkpDJ5C2mK",
+      "name" : "Sergey Lazarev",
+      "type" : "artist",
+      "uri" : "spotify:artist:69GGH3fqk8waBkpDJ5C2mK"
+    } ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3p3BWa7cjtbzWuon2BB2au"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3p3BWa7cjtbzWuon2BB2au",
+    "id" : "3p3BWa7cjtbzWuon2BB2au",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b2736257805f25b148681b16a127",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e026257805f25b148681b16a127",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d000048516257805f25b148681b16a127",
+      "width" : 64
+    } ],
+    "is_playable" : false,
+    "name" : "TVShow",
+    "release_date" : "2012-08-14",
+    "release_date_precision" : "day",
+    "restrictions" : {
+      "reason" : "market"
+    },
+    "total_tracks" : 15,
+    "type" : "album",
+    "uri" : "spotify:album:3p3BWa7cjtbzWuon2BB2au"
+  }, {
+    "album_group" : "album",
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/69GGH3fqk8waBkpDJ5C2mK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/69GGH3fqk8waBkpDJ5C2mK",
+      "id" : "69GGH3fqk8waBkpDJ5C2mK",
+      "name" : "Sergey Lazarev",
+      "type" : "artist",
+      "uri" : "spotify:artist:69GGH3fqk8waBkpDJ5C2mK"
+    } ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7AjgGYCeqfIU05PZJHjv5s"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7AjgGYCeqfIU05PZJHjv5s",
+    "id" : "7AjgGYCeqfIU05PZJHjv5s",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b27315be00c79eff897ea3895a1d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e0215be00c79eff897ea3895a1d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d0000485115be00c79eff897ea3895a1d",
+      "width" : 64
+    } ],
+    "is_playable" : false,
+    "name" : "London Club Remixes",
+    "release_date" : "2012-08-14",
+    "release_date_precision" : "day",
+    "restrictions" : {
+      "reason" : "market"
+    },
+    "total_tracks" : 25,
+    "type" : "album",
+    "uri" : "spotify:album:7AjgGYCeqfIU05PZJHjv5s"
+  }, {
+    "album_group" : "album",
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/69GGH3fqk8waBkpDJ5C2mK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/69GGH3fqk8waBkpDJ5C2mK",
+      "id" : "69GGH3fqk8waBkpDJ5C2mK",
+      "name" : "Sergey Lazarev",
+      "type" : "artist",
+      "uri" : "spotify:artist:69GGH3fqk8waBkpDJ5C2mK"
+    } ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3Sm9WG8u7sJfAsEAroaGU5"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3Sm9WG8u7sJfAsEAroaGU5",
+    "id" : "3Sm9WG8u7sJfAsEAroaGU5",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273bb0b28bf5d693eae428cd661",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e02bb0b28bf5d693eae428cd661",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d00004851bb0b28bf5d693eae428cd661",
+      "width" : 64
+    } ],
+    "is_playable" : false,
+    "name" : "Don't Be Fake",
+    "release_date" : "2012-08-14",
+    "release_date_precision" : "day",
+    "restrictions" : {
+      "reason" : "market"
+    },
+    "total_tracks" : 15,
+    "type" : "album",
+    "uri" : "spotify:album:3Sm9WG8u7sJfAsEAroaGU5"
+  }, {
+    "album_group" : "album",
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/69GGH3fqk8waBkpDJ5C2mK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/69GGH3fqk8waBkpDJ5C2mK",
+      "id" : "69GGH3fqk8waBkpDJ5C2mK",
+      "name" : "Sergey Lazarev",
+      "type" : "artist",
+      "uri" : "spotify:artist:69GGH3fqk8waBkpDJ5C2mK"
+    } ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5oYh4BCqsWpyqdhcIMLSCZ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5oYh4BCqsWpyqdhcIMLSCZ",
+    "id" : "5oYh4BCqsWpyqdhcIMLSCZ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273d1ccbfec299b69d51140f66b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e02d1ccbfec299b69d51140f66b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d00004851d1ccbfec299b69d51140f66b",
+      "width" : 64
+    } ],
+    "is_playable" : false,
+    "name" : "Electric Touch",
+    "release_date" : "2010-10-16",
+    "release_date_precision" : "day",
+    "restrictions" : {
+      "reason" : "market"
+    },
+    "total_tracks" : 14,
+    "type" : "album",
+    "uri" : "spotify:album:5oYh4BCqsWpyqdhcIMLSCZ"
+  }, {
+    "album_group" : "single",
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/69GGH3fqk8waBkpDJ5C2mK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/69GGH3fqk8waBkpDJ5C2mK",
+      "id" : "69GGH3fqk8waBkpDJ5C2mK",
+      "name" : "Sergey Lazarev",
+      "type" : "artist",
+      "uri" : "spotify:artist:69GGH3fqk8waBkpDJ5C2mK"
+    } ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2B1pukXPR4RZRIJoFbGefI"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2B1pukXPR4RZRIJoFbGefI",
+    "id" : "2B1pukXPR4RZRIJoFbGefI",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273cac3eb6c4fd1fa8d84280443",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e02cac3eb6c4fd1fa8d84280443",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d00004851cac3eb6c4fd1fa8d84280443",
+      "width" : 64
+    } ],
+    "is_playable" : false,
+    "name" : "Вкус Малины",
+    "release_date" : "2023-07-07",
+    "release_date_precision" : "day",
+    "restrictions" : {
+      "reason" : "market"
+    },
+    "total_tracks" : 1,
+    "type" : "album",
+    "uri" : "spotify:album:2B1pukXPR4RZRIJoFbGefI"
+  }, {
+    "album_group" : "single",
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/69GGH3fqk8waBkpDJ5C2mK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/69GGH3fqk8waBkpDJ5C2mK",
+      "id" : "69GGH3fqk8waBkpDJ5C2mK",
+      "name" : "Sergey Lazarev",
+      "type" : "artist",
+      "uri" : "spotify:artist:69GGH3fqk8waBkpDJ5C2mK"
+    } ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1B42FJIZci9A2kPS0CuTrM"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1B42FJIZci9A2kPS0CuTrM",
+    "id" : "1B42FJIZci9A2kPS0CuTrM",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b27337bf75c058ae3fc9a56cfc0d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e0237bf75c058ae3fc9a56cfc0d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d0000485137bf75c058ae3fc9a56cfc0d",
+      "width" : 64
+    } ],
+    "is_playable" : false,
+    "name" : "Не пытайся повторить",
+    "release_date" : "2023-03-31",
+    "release_date_precision" : "day",
+    "restrictions" : {
+      "reason" : "market"
+    },
+    "total_tracks" : 1,
+    "type" : "album",
+    "uri" : "spotify:album:1B42FJIZci9A2kPS0CuTrM"
+  }, {
+    "album_group" : "single",
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/69GGH3fqk8waBkpDJ5C2mK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/69GGH3fqk8waBkpDJ5C2mK",
+      "id" : "69GGH3fqk8waBkpDJ5C2mK",
+      "name" : "Sergey Lazarev",
+      "type" : "artist",
+      "uri" : "spotify:artist:69GGH3fqk8waBkpDJ5C2mK"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2ozf2wUWH0WU4bM8eQUtWt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2ozf2wUWH0WU4bM8eQUtWt",
+      "id" : "2ozf2wUWH0WU4bM8eQUtWt",
+      "name" : "Ева Власова",
+      "type" : "artist",
+      "uri" : "spotify:artist:2ozf2wUWH0WU4bM8eQUtWt"
+    } ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/30yHqQWu8FVSnj1fwJzwwN"
+    },
+    "href" : "https://api.spotify.com/v1/albums/30yHqQWu8FVSnj1fwJzwwN",
+    "id" : "30yHqQWu8FVSnj1fwJzwwN",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b27359316ce1326a5cffb8de9541",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e0259316ce1326a5cffb8de9541",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d0000485159316ce1326a5cffb8de9541",
+      "width" : 64
+    } ],
+    "is_playable" : false,
+    "name" : "Снег",
+    "release_date" : "2022-12-09",
+    "release_date_precision" : "day",
+    "restrictions" : {
+      "reason" : "market"
+    },
+    "total_tracks" : 1,
+    "type" : "album",
+    "uri" : "spotify:album:30yHqQWu8FVSnj1fwJzwwN"
+  }, {
+    "album_group" : "single",
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/69GGH3fqk8waBkpDJ5C2mK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/69GGH3fqk8waBkpDJ5C2mK",
+      "id" : "69GGH3fqk8waBkpDJ5C2mK",
+      "name" : "Sergey Lazarev",
+      "type" : "artist",
+      "uri" : "spotify:artist:69GGH3fqk8waBkpDJ5C2mK"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3UD7BOVxP2Ryeet8stWIrX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3UD7BOVxP2Ryeet8stWIrX",
+      "id" : "3UD7BOVxP2Ryeet8stWIrX",
+      "name" : "Vlad Topalov",
+      "type" : "artist",
+      "uri" : "spotify:artist:3UD7BOVxP2Ryeet8stWIrX"
+    } ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/75YDm1Ljf9sM5Ea9Hh4wWT"
+    },
+    "href" : "https://api.spotify.com/v1/albums/75YDm1Ljf9sM5Ea9Hh4wWT",
+    "id" : "75YDm1Ljf9sM5Ea9Hh4wWT",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273df99d182ed6fa42e43214724",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e02df99d182ed6fa42e43214724",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d00004851df99d182ed6fa42e43214724",
+      "width" : 64
+    } ],
+    "is_playable" : false,
+    "name" : "Новый год",
+    "release_date" : "2021-12-17",
+    "release_date_precision" : "day",
+    "restrictions" : {
+      "reason" : "market"
+    },
+    "total_tracks" : 1,
+    "type" : "album",
+    "uri" : "spotify:album:75YDm1Ljf9sM5Ea9Hh4wWT"
+  }, {
+    "album_group" : "single",
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1J9vlx72A2T3kbRckBu04o"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1J9vlx72A2T3kbRckBu04o",
+      "id" : "1J9vlx72A2T3kbRckBu04o",
+      "name" : "Ani Lorak",
+      "type" : "artist",
+      "uri" : "spotify:artist:1J9vlx72A2T3kbRckBu04o"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/69GGH3fqk8waBkpDJ5C2mK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/69GGH3fqk8waBkpDJ5C2mK",
+      "id" : "69GGH3fqk8waBkpDJ5C2mK",
+      "name" : "Sergey Lazarev",
+      "type" : "artist",
+      "uri" : "spotify:artist:69GGH3fqk8waBkpDJ5C2mK"
+    } ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6fFC1Q2VrDnKhwgxd4ZfIx"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6fFC1Q2VrDnKhwgxd4ZfIx",
+    "id" : "6fFC1Q2VrDnKhwgxd4ZfIx",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b2736373d8a6932924cd9378ccd4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e026373d8a6932924cd9378ccd4",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d000048516373d8a6932924cd9378ccd4",
+      "width" : 64
+    } ],
+    "is_playable" : false,
+    "name" : "Не отпускай",
+    "release_date" : "2021-08-26",
+    "release_date_precision" : "day",
+    "restrictions" : {
+      "reason" : "market"
+    },
+    "total_tracks" : 1,
+    "type" : "album",
+    "uri" : "spotify:album:6fFC1Q2VrDnKhwgxd4ZfIx"
+  }, {
+    "album_group" : "single",
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/69GGH3fqk8waBkpDJ5C2mK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/69GGH3fqk8waBkpDJ5C2mK",
+      "id" : "69GGH3fqk8waBkpDJ5C2mK",
+      "name" : "Sergey Lazarev",
+      "type" : "artist",
+      "uri" : "spotify:artist:69GGH3fqk8waBkpDJ5C2mK"
+    } ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/12DPZIP5mst3Uul3vsZwZA"
+    },
+    "href" : "https://api.spotify.com/v1/albums/12DPZIP5mst3Uul3vsZwZA",
+    "id" : "12DPZIP5mst3Uul3vsZwZA",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b27344dd17e41d41abcbb93f10d6",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e0244dd17e41d41abcbb93f10d6",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d0000485144dd17e41d41abcbb93f10d6",
+      "width" : 64
+    } ],
+    "is_playable" : false,
+    "name" : "Ароматом",
+    "release_date" : "2021-04-30",
+    "release_date_precision" : "day",
+    "restrictions" : {
+      "reason" : "market"
+    },
+    "total_tracks" : 1,
+    "type" : "album",
+    "uri" : "spotify:album:12DPZIP5mst3Uul3vsZwZA"
+  } ],
+  "limit" : 20,
+  "next" : "https://api.spotify.com/v1/artists/69GGH3fqk8waBkpDJ5C2mK/albums?include_groups=album,single,compilation,appears_on&offset=20&limit=20&market=RU",
+  "offset" : 0,
+  "previous" : null,
+  "total" : 70
+}
