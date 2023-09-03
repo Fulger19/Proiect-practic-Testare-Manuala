@@ -7,7 +7,7 @@ Documentation: https://docs.google.com/document/d/1rPW5DV82VJT6vtA1VDSrfxaCBuAdu
 
 The final project will be split into 3 sections: **1. Testing section**, **2. API Section** and **3. SQL section**.
 Testing will be done for: https://demo.guru99.com/V4/index.php
-API testing will be done for: https://www.aeries.com/solutions/demo, using the API documentation from here: https://support.aeries.com/support/solutions/articles/14000077926-aeries-api-full-documentation
+API testing will be done for: https://developer.spotify.com/documentation/web-api
 SQL testing will be done for: https://scoala89.invatamantsector3.ro/
 
 Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
@@ -112,10 +112,15 @@ Test execution chart
 
 # 2. API testing
 
-The API documentation can be found here: https://support.aeries.com/support/solutions/articles/14000077926-aeries-api-full-documentation
-School Information - School-related end points was used for testing. 
-For the API testing the following checklist was generated: XXXXXXXXXXXXXXXXXX
-API tests are executed based on the checklist. The collection used can be found here: XXXXX JSON file with the collection of requests created for the Dependents API XXXXX
+The API documentation can be found here: https://developer.spotify.com/documentation/web-api
+Authentification documentation: https://developer.spotify.com/documentation/general/guides/authorization/
+
+For the API testing a checklist with additional information can be found here: https://github.com/Fulger19/Proiect-practic-Testare-Manuala/blob/main/API_test_checklist.xlsx
+
+Some of the API responses can be found here: 
+- https://github.com/Fulger19/Proiect-practic-Testare-Manuala/blob/main/response_artist%20albums.json
+- https://github.com/Fulger19/Proiect-practic-Testare-Manuala/blob/main/response_catalog%20artist.json
+- https://github.com/Fulger19/Proiect-practic-Testare-Manuala/blob/main/GET_403%20error.JPG
 
 # 3. SQL section
 
