@@ -12,7 +12,8 @@ Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
 # Functional specifications
 This project is performed upon the below Story, which was created in JIRA and describes the functional specifications of the **New Customer** module for **Manager role**.
 
-![image](https://github.com/Fulger19/Proiect-practic-Testare-Manuala/assets/135150028/6dc5b021-b7ac-442c-85e3-d53cf4eafdc6)
+![image](https://github.com/Fulger19/Proiect-practic-Testare-Manuala/assets/135150028/399351a1-9b17-4f7b-881c-bf7fc5a1b48e)
+
 
 
 # 1 Testing section
