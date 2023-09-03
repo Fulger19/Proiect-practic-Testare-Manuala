@@ -113,6 +113,7 @@ Test execution chart
 # 2. API testing
 
 The API documentation can be found here: https://developer.spotify.com/documentation/web-api
+
 Authentification documentation: https://developer.spotify.com/documentation/general/guides/authorization/
 
 For the API testing a checklist with additional information can be found here: https://github.com/Fulger19/Proiect-practic-Testare-Manuala/blob/main/API_test_checklist.xlsx
