@@ -78,7 +78,8 @@ Functional test cases were created in Zephyr Squad. Based on the analysis of the
 
 ![image](https://github.com/Fulger19/Proiect-practic-Testare-Manuala/assets/135150028/2458ad39-98f3-443c-b794-e56e7b3b4d51)
 
-The test cases with steps can be viewed here: https://github.com/Fulger19/Proiect-practic-Testare-Manuala/blob/main/ZFJ-issue-export-08-19-2023-242ac113-0001.xlsx
+The test cases with steps can be viewed here: ZFJ-issue-export-08-19-2023-242ac113-0001 (2).xlsx
+https://github.com/Fulger19/Proiect-practic-Testare-Manuala/blob/main/ZFJ-issue-export-08-19-2023-242ac113-0001%20(2).xlsx
 
 For the API testing, the following checklist was generated: XXXXXXXXXXXXXXXXXX
 
