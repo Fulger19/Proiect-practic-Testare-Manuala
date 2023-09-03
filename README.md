@@ -94,9 +94,7 @@ The following elements are needed to be ready before the test execution phase be
 
 ## 1.6 Test Execution
 - Test cases are executed on the created test Cycle summary: 
-- 11 bugs have been created based on the failed tests. The complete bug reports can be found here: xxxxxxxxDependents_created_bugs.pdfxxxx
-    - First character cannot be space for customer name, address, city, state, PIN Cod, telephone number, email
-    - Address - address field cannot be blank, special characters are not allowed
+- 2 bugs have been created based on the failed tests. The complete bug reports can be found here: https://github.com/Fulger19/Proiect-practic-Testare-Manuala/blob/main/bug%20reports.JPG
     - Email - special characters are not allowed
     - Date format is not dd/mm/yyyy
 - API tests are executed based on the checklist. The collection used can be found here: XXXXX JSON file with the collection of requests created for the Dependents API XXXXX
