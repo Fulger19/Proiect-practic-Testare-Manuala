@@ -1,0 +1,69 @@
+create database scoala89;
+use scoala;
+
+create table copii8C(
+id int not null primary key auto_increment,
+child_surname Varchar (20),
+child_name Varchar (20),
+child_sex Varchar (6),
+child_birth_year int,
+child_home_address Varchar (50)
+);
+
+insert into copii8C (child_surname, child_name, child_sex, child_birth_year, child_home_address) values ("Apolon", "Cosmin", "male", "2009", "Bucuresti, sector 3, bd Nicolae Grigorescu nr.5");
+insert into copii8C (child_surname, child_name, child_sex, child_birth_year, child_home_address) values ("Buzatu", "Mihaela", "female", "2008", "Bucuresti, sector 3, str Fizicienilor nr.10");
+insert into copii8C (child_surname, child_name, child_sex, child_birth_year, child_home_address) values ("Costache", "Elena", "female", "2009", "Bucuresti, sector 3, bd Nicolae Grigorescu nr.5");
+insert into copii8C (child_surname, child_name, child_sex, child_birth_year, child_home_address) values ("Calin", "Andrei", "male", "2009", "Bucuresti, sector 3, bd Nicolae Grigorescu nr.13");
+insert into copii8C (child_surname, child_name, child_sex, child_birth_year, child_home_address) values ("Dumitru", "Alexandru", "male", "2008", "Bucuresti, sector 3, al Fizicienilor nr.5");
+insert into copii8C (child_surname, child_name, child_sex, child_birth_year, child_home_address) values ("Ghita", "Alina", "female", "2009", "Bucuresti, sector 3, bd Nicolae Grigorescu nr.7");
+insert into copii8C (child_surname, child_name, child_sex, child_birth_year, child_home_address) values ("Ionescu", "Catalina", "female", "2009", "Bucuresti, sector 3, str Rotunda nr.5");
+insert into copii8C (child_surname, child_name, child_sex, child_birth_year, child_home_address) values ("Mihai", "Cristina", "female", "2008", "Bucuresti, sector 3, str Fizicienilor nr.23");
+insert into copii8C (child_surname, child_name, child_sex, child_birth_year, child_home_address) values ("Nistor", "Mihai", "male", "2009", "Bucuresti, sector 3, bd Nicolae Grigorescu nr.13");
+insert into copii8C (child_surname, child_name, child_sex, child_birth_year, child_home_address) values ("Oprea", "Claudiu", "male", "2008", "Bucuresti, sector 3, al Eprobetei nr.7");
+insert into copii8C (child_surname, child_name, child_sex, child_birth_year, child_home_address) values ("Radulescu", "Cosmin", "male", "2009", "Bucuresti, sector 3, str Rotunda nr.11");
+insert into copii8C (child_surname, child_name, child_sex, child_birth_year, child_home_address) values ("Sonda", "Matei", "male", "2009", "Bucuresti, sector 3, al Fizicienilor nr.14");
+insert into copii8C (child_surname, child_name, child_sex, child_birth_year, child_home_address) values ("Stavarache", "Miruna", "female", "2008", "Bucuresti, sector 3, bd Nicolae Grigorescu nr.15");
+insert into copii8C (child_surname, child_name, child_sex, child_birth_year, child_home_address) values ("Tudose", "Claudia", "female", "2009", "Bucuresti, sector 3, bd Camil Ressu nr.25");
+insert into copii8C (child_surname, child_name, child_sex, child_birth_year, child_home_address) values ("Tudose", "Cristina", "female", "2009", "Bucuresti, sector 3, bd Camil Ressu nr.25");
+
+select * from copii8C;
+
+select * from copii8C where child_sex='male';
+select * from copii8C where child_sex='female';
+select * from copii8C where child_birth_year='2008';
+select * from copii8C where child_birth_year='2009';
+
+create table note8C(
+id int NOT NULL PRIMARY KEY auto_increment,
+child_surname Varchar (20),
+child_name Varchar (20),
+math_grade int,
+ro_grade int,
+situation Varchar(10)
+);
+
+insert into note8C (child_surname, child_name, math_grade, ro_grade) values ("Apolon", "Cosmin", 8, 9);
+insert into note8C (child_surname, child_name, math_grade, ro_grade) values ("Buzatu", "Mihaela", 10, 10);
+insert into note8C (child_surname, child_name, math_grade, ro_grade) values ("Costache", "Elena", 3, 7);
+insert into note8C (child_surname, child_name, math_grade, ro_grade) values ("Calin", "Andrei", 5, 5);
+insert into note8C (child_surname, child_name, math_grade, ro_grade) values ("Dumitru", "Alexandru", 8, 4);
+insert into note8C (child_surname, child_name, math_grade, ro_grade) values ("Ghita", "Alina", 5, 6);
+insert into note8C (child_surname, child_name, math_grade, ro_grade) values ("Ionescu", "Catalina", 7, 7);
+insert into note8C (child_surname, child_name, math_grade, ro_grade) values ("Mihai", "Cristina", 8, 9);
+insert into note8C (child_surname, child_name, math_grade, ro_grade) values ("Nistor", "Mihai", 10, 9);
+insert into note8C (child_surname, child_name, math_grade, ro_grade) values ("Oprea", "Claudiu", 9, 9);
+insert into note8C (child_surname, child_name, math_grade, ro_grade) values ("Radulescu", "Cosmin", 6, 8);
+insert into note8C (child_surname, child_name, math_grade, ro_grade) values ("Sonda", "Matei", 7, 7);
+insert into note8C (child_surname, child_name, math_grade, ro_grade) values ("Stavarache", "Miruna", 2, 4);
+insert into note8C (child_surname, child_name, math_grade, ro_grade) values ("Tudose", "Claudia", 7, 9);
+insert into note8C (child_surname, child_name, math_grade, ro_grade) values ("Tudose", "Cristina", 9, 7);
+
+update note8C set situation='pass' where math_grade>=5 and ro_grade>=5;
+
+select * from note8C;
+select * from note8C where math_grade>=4;
+select * from note8C where math_grade>=7;
+select * from note8C where ro_grade>=7;
+select * from note8C where ro_grade>=9 and math_grade>=9;
+select * from note8C where ro_grade<5 and math_grade<5;
+select * from note8C where ro_grade<5 or math_grade<5;
