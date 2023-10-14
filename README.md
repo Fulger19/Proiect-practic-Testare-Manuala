@@ -125,5 +125,5 @@ Some of the API responses can be found here:
 
 # 3. SQL section
 
-Created a database named 'scoala89' and two tables named 'copii8C' and 'note8C' with all the columns needed to save data per specifications. Performed different queries inside the sql file: 
+Created a database named 'scoala89' and two tables named 'copii8C' and 'note8C' with all the columns needed to save data per specifications. Performed different queries inside the sql file: https://github.com/Fulger19/Proiect-practic-Testare-Manuala/blob/main/SQL_Project_IT_Factory.txt
   
