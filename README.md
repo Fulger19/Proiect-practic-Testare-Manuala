@@ -6,11 +6,9 @@ Application under test: https://demo.guru99.com/V4/index.php
 Documentation: https://docs.google.com/document/d/1rPW5DV82VJT6vtA1VDSrfxaCBuAduxW0zb1yfTh_VMk/edit
 
 The final project will be split into 3 sections: **1. Testing section**, **2. API Section** and **3. SQL section**.
-Testing will be done for: https://demo.guru99.com/V4/index.php
-
-API testing will be done for: https://developer.spotify.com/documentation/web-api
-
-SQL testing will be done for: https://scoala89.invatamantsector3.ro/
+- Testing will be done for: https://demo.guru99.com/V4/index.php
+- API testing will be done for: https://developer.spotify.com/documentation/web-api
+- SQL testing will be done for: https://scoala89.invatamantsector3.ro/
 
 Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
 
