@@ -8,7 +8,7 @@ Documentation: https://docs.google.com/document/d/1rPW5DV82VJT6vtA1VDSrfxaCBuAdu
 The final project will be split into 3 sections: **1. Testing section**, **2. API Section** and **3. SQL section**.
 - Testing will be done for: https://demo.guru99.com/V4/index.php
 - API testing will be done for: https://developer.spotify.com/documentation/web-api
-- SQL testing will be done for: https://scoala89.invatamantsector3.ro/
+- SQL testing will be done for the students in a classroom
 
 Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
 
@@ -125,5 +125,5 @@ Some of the API responses can be found here:
 
 # 3. SQL section
 
-Created a database named 'orangehrm' and a table named 'dependents' with all the columns needed to save data per specifications. Performed different queries inside the sql file: dependents.sql
+Created a database named 'scoala89' and two tables named 'copii8C' and 'note8C' with all the columns needed to save data per specifications. Performed different queries inside the sql file: 
   
