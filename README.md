@@ -8,7 +8,7 @@ Documentation: https://docs.google.com/document/d/1rPW5DV82VJT6vtA1VDSrfxaCBuAdu
 The final project will be split into 3 sections: **1. Testing section**, **2. API Section** and **3. SQL section**.
 - Testing will be done for: https://demo.guru99.com/V4/index.php
 - API testing will be done for: https://developer.spotify.com/documentation/web-api
-- SQL testing will be done for the students in a classroom
+- SQL testing will be done for the students in the 8th grade
 
 Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
 
@@ -125,5 +125,13 @@ Some of the API responses can be found here:
 
 # 3. SQL section
 
-Created a database named 'scoala89' and two tables named 'copii8C' and 'note8C' with all the columns needed to save data per specifications. Performed different queries inside the sql file: https://github.com/Fulger19/Proiect-practic-Testare-Manuala/blob/main/SQL_Project_IT_Factory.txt
-  
+The SQL testing was done for the students in an 8th grade.
+Created a database named 'scoala89' and two tables named 
+- 'copii8C' with columns containing identification information
+- 'note8C' with columns containing grades for Mathematics and Romanian
+Performed different queries inside the sql file: https://github.com/Fulger19/Proiect-practic-Testare-Manuala/blob/main/SQL_Project_IT_Factory.txt
+Some of the queries can be found here:
+- all the children from the classroom - https://github.com/Fulger19/Proiect-practic-Testare-Manuala/blob/main/SQL_table%201.JPG,
+- all children born in 2008 - https://github.com/Fulger19/Proiect-practic-Testare-Manuala/blob/main/SQL_table%202.JPG,
+- all grades for Mathematics and Romanian - https://github.com/Fulger19/Proiect-practic-Testare-Manuala/blob/main/SQL_table%203.JPG,
+- all children with at least one grade less then 5 - https://github.com/Fulger19/Proiect-practic-Testare-Manuala/blob/main/SQL_table%204.JPG  
