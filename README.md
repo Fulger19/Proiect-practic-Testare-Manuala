@@ -46,7 +46,7 @@ The plan identifies the items to be tested, the features to be tested, the types
   
 ### 1.1.4 Test scope
 
-**Tests in scope**: All the feature of **New Customer** module which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing.
+**Tests in scope**: All the features of **New Customer** module which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing.
 
 **Tests not in scope**: performance testing, integrations of the above modules with other modules, compatibility testing with multiple browsers
 
